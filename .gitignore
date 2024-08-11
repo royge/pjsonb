@@ -1,0 +1,6 @@
+# Vendor
+vendor/
+
+# VIM
+.swo
+.swp
