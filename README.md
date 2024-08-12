@@ -2,9 +2,7 @@
 
 This package provides support for datatypes like `JSONB` in postgres
 
-_Disclaimer:_
-
-It is a copy of [github.com/gobuffalo/pop/v6/slices](https://github.com/gobuffalo/pop/v6/slices).
+_Disclaimer:_ It is a copy of [github.com/gobuffalo/pop/v6/slices](https://github.com/gobuffalo/pop/tree/main/slices).
 Credit goes to the original authors.
 
 ## Installation
